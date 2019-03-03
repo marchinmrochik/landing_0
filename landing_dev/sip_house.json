@@ -1,0 +1,66 @@
+{
+  "0":
+    {
+      "title":"SIP - панельный дом “Атлант”",
+      "object_text": "дом из SIP - панелей",
+      "place_text": "161 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/sip_house1/1сипГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/sip_house1/2сипГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/sip_house1/3сипГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/sip_house1/4сипГот.jpg) no-repeat center"
+    }
+  ,
+  "1":
+    {
+      "title":"SIP - панельный дом “Атлант”",
+      "object_text": "дом из SIP - панелей",
+      "place_text": "149 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/sip_house2/5сипГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/sip_house2/6сипГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/sip_house2/7сипГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/sip_house2/8сипГот.jpg) no-repeat center"
+    },
+
+  "2":
+    {
+      "title":"SIP - панельный дом “Омега”",
+      "object_text": "дом из SIP - панелей",
+      "place_text": "162 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/sip_house3/9сипГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/sip_house3/10сипГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/sip_house3/11сипГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/sip_house3/12сипГот.jpg) no-repeat center"
+    }
+  ,
+  "3":
+    {
+      "title":"SIP - панельный дом “Глория”",
+      "object_text": "дом из SIP - панелей",
+      "place_text": "141 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/sip_house4/13сипГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/sip_house4/14сипГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/sip_house4/15сипГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/sip_house4/16сипГот.jpg) no-repeat center"
+    }
+  ,
+  "4":
+    {
+      "title":"SIP - панельный дом “Империя”",
+      "object_text": "дом из SIP - панелей",
+      "place_text": "186 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/sip_house5/17сипГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/sip_house5/18сипГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/sip_house5/19сипГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/sip_house5/20сипГот.jpg) no-repeat center"
+    }
+}

@@ -1,0 +1,566 @@
+{
+  "0":
+    {
+      "name":"1",
+      "room": "3",
+      "bathroom": "1",
+      "space": "98",
+      "class_name": "block-up-to-100",
+      "slider": {
+        "0": "src/img/catalog/№1/0.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/№1/0.jpg",
+        "1": "src/img/catalog/№1/01.jpg",
+        "2": "src/img/catalog/№1/02.jpg",
+        "3": "src/img/catalog/№1/03.jpg",
+        "4": "src/img/catalog/№1/04.jpg",
+        "5": "src/img/catalog/№1/05.jpg",
+        "6": "src/img/catalog/№1/06.jpg",
+        "7": "src/img/catalog/№1/07.jpg",
+        "8": "src/img/catalog/№1/08.jpg",
+        "9": "src/img/catalog/№1/09.jpg"
+      }
+    },
+  "1":
+    {
+      "name":"3",
+      "room": "4",
+      "bathroom": "1",
+      "space": "75",
+      "class_name": "block-up-to-100",
+      "slider": {
+        "0": "src/img/catalog/№3/cheap_house_1-min.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/№3/cheap_house_1-min.jpg",
+        "1": "src/img/catalog/№3/cheap_house_2-min.jpg",
+        "2": "src/img/catalog/№3/fasad_1-3-min.jpg",
+        "3": "src/img/catalog/№3/fasad_3-1-min.jpg",
+        "4": "src/img/catalog/№3/fasad_a-b-min.jpg",
+        "5": "src/img/catalog/№3/fasad_b-a-min.jpg",
+        "6": "src/img/catalog/№3/poverh1-min.png",
+        "7": "src/img/catalog/№3/poverh2-min.png"
+      }
+    },
+  "2":
+    {
+      "name":"5",
+      "room": "5",
+      "bathroom": "1",
+      "space": "99.75",
+      "class_name": "block-up-to-100",
+      "slider": {
+        "0": "src/img/catalog/№5/032.1.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/№5/032.1.jpg",
+        "1": "src/img/catalog/№5/032.2.jpg",
+        "2": "src/img/catalog/№5/view_2.jpg",
+        "3": "src/img/catalog/№5/view_3.jpg",
+        "4": "src/img/catalog/№5/fasad-1-5.jpg",
+        "5": "src/img/catalog/№5/fasad-5-1.jpg",
+        "6": "src/img/catalog/№5/fasad-a-d.jpg",
+        "7": "src/img/catalog/№5/fasad-d-a.jpg",
+        "8": "src/img/catalog/№5/poverh1.jpg",
+        "9": "src/img/catalog/№5/poverh2.jpg"
+      }
+    },
+  "3":
+    {
+      "name":"2",
+      "room": "5",
+      "bathroom": "2",
+      "space": "106,4",
+      "class_name": "block-up-to-200",
+      "slider": {
+        "0": "src/img/catalog/№2/IMG_6959-min.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/№2/IMG_6959-min.jpg",
+        "1": "src/img/catalog/№2/IMG_6966-min.jpg",
+        "2": "src/img/catalog/№2/IMG_6969-min.jpg",
+        "3": "src/img/catalog/№2/IMG_6970-min.jpg",
+        "4": "src/img/catalog/№2/fasad_1-min.jpg",
+        "5": "src/img/catalog/№2/fasad_2-min.jpg",
+        "6": "src/img/catalog/№2/fasad_3-min.jpg",
+        "7": "src/img/catalog/№2/fasad_4-min.jpg",
+        "8": "src/img/catalog/№2/poverh_1-min.jpg",
+        "9": "src/img/catalog/№2/poverh_2-min.jpg"
+      }
+    },
+  "4":
+  {
+    "name":"4",
+    "room": "6",
+    "bathroom": "3",
+    "space": "122",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/№4/view_1-min.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/№4/view_1-min.jpg",
+      "1": "src/img/catalog/№4/view_3-min.jpg",
+      "2": "src/img/catalog/№4/view_4-min.jpg",
+      "3": "src/img/catalog/№4/fas_1-min.jpg",
+      "4": "src/img/catalog/№4/fas_2-min.jpg",
+      "5": "src/img/catalog/№4/fas_3-min.jpg",
+      "6": "src/img/catalog/№4/fas_4-min.jpg",
+      "7": "src/img/catalog/№4/poverh_1-min.jpg",
+      "8": "src/img/catalog/№4/poverh_2-min.jpg"
+    }
+  },
+  "5":
+    {
+      "name":"7",
+      "room": "8",
+      "bathroom": "2",
+      "space": "199,7",
+      "class_name": "block-up-to-200",
+      "slider": {
+        "0": "src/img/catalog/№7/1.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/№7/1.jpg",
+        "1": "src/img/catalog/№7/2.jpg",
+        "2": "src/img/catalog/№7/3.jpg",
+        "3": "src/img/catalog/№7/4.jpg",
+        "4": "src/img/catalog/№7/6.jpg",
+        "5": "src/img/catalog/№7/7.jpg"
+      }
+    },
+  "6":
+  {
+    "name":"8",
+    "room": "8",
+    "bathroom": "2",
+    "space": "166",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/№8/1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/№8/1.jpg",
+      "1": "src/img/catalog/№8/2.jpg",
+      "2": "src/img/catalog/№8/3.jpg",
+      "3": "src/img/catalog/№8/4.jpg",
+      "4": "src/img/catalog/№8/6.jpg"
+    }
+  },
+  "7":
+    {
+      "name":"6",
+      "room": "10",
+      "bathroom": "3",
+      "space": "219",
+      "class_name": "block-from-200",
+      "slider": {
+        "0": "src/img/catalog/№6/view_1-min.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/№6/view_1-min.jpg",
+        "1": "src/img/catalog/№6/view_2-min.jpg",
+        "2": "src/img/catalog/№6/view_3-min.jpg",
+        "3": "src/img/catalog/№6/view_4-min.jpg",
+        "4": "src/img/catalog/№6/fas_1-min.jpg",
+        "5": "src/img/catalog/№6/fas_2-min.jpg",
+        "6": "src/img/catalog/№6/fas_3-min.jpg",
+        "7": "src/img/catalog/№6/fas_4-min.jpg",
+        "8": "src/img/catalog/№6/poverh_1-min.jpg",
+        "9": "src/img/catalog/№6/poverh_2-min.jpg"
+      }
+    },
+  "8":
+    {
+      "name":"9",
+      "room": "10",
+      "bathroom": "3",
+      "space": "219",
+      "class_name": "block-from-200",
+      "slider": {
+        "0": "src/img/catalog/№9/11.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/№9/11.jpg",
+        "1": "src/img/catalog/№9/12.jpg",
+        "2": "src/img/catalog/№9/13.jpg",
+        "3": "src/img/catalog/№9/14.jpg",
+        "4": "src/img/catalog/№9/16.jpg",
+        "5": "src/img/catalog/№9/17.jpg"
+      }
+    },
+  "9":
+    {
+      "name":"10",
+      "room": "5",
+      "bathroom": "1",
+      "space": "60",
+      "class_name": "block-up-to-100",
+      "slider": {
+        "0": "src/img/catalog/catalogTo100/NST N1/z39_1_hd.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/catalogTo100/NST N1/z39_1_hd.jpg",
+        "1": "src/img/catalog/catalogTo100/NST N1/z39_1.jpg",
+        "2": "src/img/catalog/catalogTo100/NST N1/z39_2.jpg",
+        "3": "src/img/catalog/catalogTo100/NST N1/z39_m.jpg"
+      }
+    },
+  "10":
+    {
+      "name":"11",
+      "room": "4",
+      "bathroom": "2",
+      "space": "99",
+      "class_name": "block-up-to-100",
+      "slider": {
+        "0": "src/img/catalog/catalogTo100/NST N2/1300x800-0036_r1.305.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/catalogTo100/NST N2/1300x800-0036_r1.305.jpg",
+        "1": "src/img/catalog/catalogTo100/NST N2/1300x800-0036_r2.305.jpg",
+        "2": "src/img/catalog/catalogTo100/NST N2/500x-0036_p1.cbe.jpg",
+        "3": "src/img/catalog/catalogTo100/NST N2/500x-0036_p2.cbe.jpg"
+      }
+    },
+  "11":
+    {
+      "name":"12",
+      "room": "3",
+      "bathroom": "1",
+      "space": "37",
+      "class_name": "block-up-to-100",
+      "slider": {
+        "0": "src/img/catalog/catalogTo100/NST 5/1300x800-b0002_r1.305.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/catalogTo100/NST 5/1300x800-b0002_r1.305.jpg",
+        "1": "src/img/catalog/catalogTo100/NST 5/1300x800-b0002_r2.305.jpg",
+        "2": "src/img/catalog/catalogTo100/NST 5/1300x800-b0002_r3.305.jpg",
+        "3": "src/img/catalog/catalogTo100/NST 5/500x-b0002_p1.cbe.jpg"
+      }
+    },
+  "12":
+    {
+      "name":"13",
+      "room": "3",
+      "bathroom": "1",
+      "space": "46",
+      "class_name": "block-up-to-100",
+      "slider": {
+        "0": "src/img/catalog/catalogTo100/NST 4/1300x800-b0003_r1.305.jpg"
+      },
+      "slider_modal": {
+        "0": "src/img/catalog/catalogTo100/NST 4/1300x800-b0003_r1.305.jpg",
+        "1": "src/img/catalog/catalogTo100/NST 4/1300x800-b0003_r2.305.jpg",
+        "3": "src/img/catalog/catalogTo100/NST 4/500x-b0003.cbe.jpg"
+      }
+    },
+  "13":
+  {
+    "name":"14",
+    "room": "2",
+    "bathroom": "1",
+    "space": "36",
+    "class_name": "block-up-to-100",
+    "slider": {
+      "0": "src/img/catalog/catalogTo100/NST n 6/1300x800-r1_01_ps_03.305.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo100/NST n 6/1300x800-r1_01_ps_03.305.jpg",
+      "1": "src/img/catalog/catalogTo100/NST n 6/1300x800-r2_02_ps_03.305.jpg",
+      "2": "src/img/catalog/catalogTo100/NST n 6/1300x800-r3_02_ps_06.305.jpg",
+      "3": "src/img/catalog/catalogTo100/NST n 6/500x-008-p1.cbe.jpg"
+    }
+  },
+  "14":
+  {
+    "name":"15",
+    "room": "5",
+    "bathroom": "1",
+    "space": "70",
+    "class_name": "block-up-to-100",
+    "slider": {
+      "0": "src/img/catalog/catalogTo100/NST N0/z252_02.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo100/NST N0/z252_1.png",
+      "1": "src/img/catalog/catalogTo100/NST N0/z252_02.jpg",
+      "2": "src/img/catalog/catalogTo100/NST N0/z252_m.jpg"
+    }
+  },
+  "15":
+  {
+    "name":"16",
+    "room": "3",
+    "bathroom": "2",
+    "space": "48",
+    "class_name": "block-up-to-100",
+    "slider": {
+      "0": "src/img/catalog/catalogTo100/NST N3/1300x800-2222.305.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo100/NST N3/1300x800-2222.305.jpg",
+      "1": "src/img/catalog/catalogTo100/NST N3/500x-1.cbe.jpg",
+      "2": "src/img/catalog/catalogTo100/NST N3/500x-2.cbe.jpg"
+    }
+  },
+  "16":
+  {
+    "name":"17",
+    "room": "4",
+    "bathroom": "2",
+    "space": "114.7",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogTo200/1/proekt-Z295-1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo200/1/proekt-Z295-1.jpg",
+      "1": "src/img/catalog/catalogTo200/1/proekt-Z295-2.jpg",
+      "2": "src/img/catalog/catalogTo200/1/proekt-Z295-4.jpg",
+      "3": "src/img/catalog/catalogTo200/1/proekt-Z295-6.jpg",
+      "4": "src/img/catalog/catalogTo200/1/proekt-Z295-7.jpg",
+      "5": "src/img/catalog/catalogTo200/1/proekt-Z295-8.jpg"
+    }
+  },
+  "17":
+  {
+    "name":"18",
+    "room": "6",
+    "bathroom": "2",
+    "space": "128.6",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogTo200/2/proekt-Z248-1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo200/2/proekt-Z248-1.jpg",
+      "1": "src/img/catalog/catalogTo200/2/proekt-Z248-2.jpg",
+      "2": "src/img/catalog/catalogTo200/2/proekt-Z248-4.jpg",
+      "3": "src/img/catalog/catalogTo200/2/proekt-Z248-5.jpg",
+      "4": "src/img/catalog/catalogTo200/2/proekt-Z248-6.jpg",
+      "5": "src/img/catalog/catalogTo200/2/proekt-Z248-7.jpg"
+    }
+  },
+  "18":
+  {
+    "name":"19",
+    "room": "6",
+    "bathroom": "2",
+    "space": "180.1",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogTo200/3/proekt-Z120-1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo200/3/proekt-Z120-1.jpg",
+      "1": "src/img/catalog/catalogTo200/3/proekt-Z120-2.jpg",
+      "2": "src/img/catalog/catalogTo200/3/proekt-Z120-3.jpg",
+      "3": "src/img/catalog/catalogTo200/3/proekt-Z120-4.jpg"
+    }
+  },
+  "19":
+  {
+    "name":"20",
+    "room": "5",
+    "bathroom": "3",
+    "space": "138.9",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogTo200/4/proekt-Z79-1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo200/4/proekt-Z79-1.jpg",
+      "1": "src/img/catalog/catalogTo200/4/proekt-Z79-2.jpg",
+      "2": "src/img/catalog/catalogTo200/4/proekt-Z79-3.jpg",
+      "3": "src/img/catalog/catalogTo200/4/proekt-Z79-4.jpg",
+      "4": "src/img/catalog/catalogTo200/4/proekt-Z79-5.jpg",
+      "5": "src/img/catalog/catalogTo200/4/proekt-Z79-7.jpg",
+      "6": "src/img/catalog/catalogTo200/4/proekt-Z79-8.jpg"
+    }
+  },
+  "20":
+  {
+    "name":"21",
+    "room": "5",
+    "bathroom": "2",
+    "space": "117.5",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogTo200/5/thumb_Z1_1_3.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo200/5/thumb_Z1_1_3.jpg",
+      "1": "src/img/catalog/catalogTo200/5/thumb_Z1_1_4.jpg",
+      "2": "src/img/catalog/catalogTo200/5/thumb_Z1_2_1.jpg",
+      "3": "src/img/catalog/catalogTo200/5/thumb_Z1_3_1.jpg",
+      "4": "src/img/catalog/catalogTo200/5/thumb_Z1_4_2.jpg",
+      "5": "src/img/catalog/catalogTo200/5/thumb_Z1_view1.jpg",
+      "6": "src/img/catalog/catalogTo200/5/thumb_Z1_rzut1.jpg",
+      "7": "src/img/catalog/catalogTo200/5/thumb_Z1_rzut2.jpg"
+    }
+  },
+  "21":
+  {
+    "name":"22",
+    "room": "6",
+    "bathroom": "2",
+    "space": "154.4",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogTo200/6/proekt-Z66-2.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo200/6/proekt-Z66-2.jpg",
+      "1": "src/img/catalog/catalogTo200/6/proekt-Z66-3.jpg",
+      "2": "src/img/catalog/catalogTo200/6/proekt-Z66-4.jpg",
+      "3": "src/img/catalog/catalogTo200/6/proekt-Z66-5.jpg",
+      "4": "src/img/catalog/catalogTo200/6/proekt-Z66-6.jpg",
+      "5": "src/img/catalog/catalogTo200/6/proekt-Z66-7.jpg",
+      "6": "src/img/catalog/catalogTo200/6/proekt-Z66-8.jpg",
+      "7": "src/img/catalog/catalogTo200/6/proekt-Z66-9.jpg"
+    }
+  },
+  "22":
+  {
+    "name":"23",
+    "room": "5",
+    "bathroom": "2",
+    "space": "111.7",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogTo200/7/thumb_Z3_1_1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogTo200/7/thumb_Z3_1_1.jpg",
+      "1": "src/img/catalog/catalogTo200/7/thumb_Z3_2_4.jpg",
+      "2": "src/img/catalog/catalogTo200/7/thumb_Z3_2_5.jpg",
+      "3": "src/img/catalog/catalogTo200/7/thumb_Z3_3_1.jpg",
+      "4": "src/img/catalog/catalogTo200/7/thumb_Z3_view2.jpg",
+      "5": "src/img/catalog/catalogTo200/7/thumb_Z3_rzut1.jpg",
+      "6": "src/img/catalog/catalogTo200/7/thumb_Z3_rzut2.jpg"
+    }
+  },
+  "23":
+  {
+    "name":"24",
+    "room": "10",
+    "bathroom": "2",
+    "space": "239.1",
+    "class_name": "block-from-200",
+    "slider": {
+      "0": "src/img/catalog/catalogFrom200/1/1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogFrom200/1/1.jpg",
+      "1": "src/img/catalog/catalogFrom200/1/2.jpg",
+      "2": "src/img/catalog/catalogFrom200/1/5.jpg",
+      "3": "src/img/catalog/catalogFrom200/1/6.jpg",
+      "4": "src/img/catalog/catalogFrom200/1/7.jpg",
+      "5": "src/img/catalog/catalogFrom200/1/8.jpg",
+      "6": "src/img/catalog/catalogFrom200/1/3.jpg",
+      "7": "src/img/catalog/catalogFrom200/1/4.jpg"
+    }
+  },
+  "24":
+  {
+    "name":"25",
+    "room": "7",
+    "bathroom": "4",
+    "space": "206.2",
+    "class_name": "block-from-200",
+    "slider": {
+      "0": "src/img/catalog/catalogFrom200/2/1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogFrom200/2/1.jpg",
+      "1": "src/img/catalog/catalogFrom200/2/2.jpg",
+      "2": "src/img/catalog/catalogFrom200/2/3.jpg",
+      "3": "src/img/catalog/catalogFrom200/2/4.jpg",
+      "4": "src/img/catalog/catalogFrom200/2/5.jpg",
+      "5": "src/img/catalog/catalogFrom200/2/6.jpg",
+      "6": "src/img/catalog/catalogFrom200/2/7.jpg",
+      "7": "src/img/catalog/catalogFrom200/2/8.jpg",
+      "8": "src/img/catalog/catalogFrom200/2/9.jpg",
+      "9": "src/img/catalog/catalogFrom200/2/10.jpg",
+      "10": "src/img/catalog/catalogFrom200/2/11.jpg"
+    }
+  },
+  "25":
+  {
+    "name":"26",
+    "room": "5",
+    "bathroom": "1",
+    "space": "163",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogFrom200/4/1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogFrom200/4/1.jpg",
+      "1": "src/img/catalog/catalogFrom200/4/2.jpg",
+      "2": "src/img/catalog/catalogFrom200/4/3.jpg",
+      "3": "src/img/catalog/catalogFrom200/4/4.jpg"
+    }
+  },
+  "26":
+  {
+    "name":"27",
+    "room": "6",
+    "bathroom": "2",
+    "space": "166.5",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogFrom200/5/1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogFrom200/5/1.jpg",
+      "1": "src/img/catalog/catalogFrom200/5/2.jpg",
+      "2": "src/img/catalog/catalogFrom200/5/3.jpg",
+      "3": "src/img/catalog/catalogFrom200/5/4.jpg",
+      "4": "src/img/catalog/catalogFrom200/5/5.jpg",
+      "5": "src/img/catalog/catalogFrom200/5/6.jpg",
+      "6": "src/img/catalog/catalogFrom200/5/7.jpg"
+    }
+  },
+  "27":
+  {
+    "name":"28",
+    "room": "11",
+    "bathroom": "2",
+    "space": "181.5",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogFrom200/6/1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogFrom200/6/1.jpg",
+      "1": "src/img/catalog/catalogFrom200/6/2.jpg",
+      "2": "src/img/catalog/catalogFrom200/6/3.jpg",
+      "3": "src/img/catalog/catalogFrom200/6/4.jpg"
+    }
+  },
+  "28":
+  {
+    "name":"29",
+    "room": "6",
+    "bathroom": "2",
+    "space": "159.7",
+    "class_name": "block-up-to-200",
+    "slider": {
+      "0": "src/img/catalog/catalogFrom200/7/1.jpg"
+    },
+    "slider_modal": {
+      "0": "src/img/catalog/catalogFrom200/7/1.jpg",
+      "1": "src/img/catalog/catalogFrom200/7/2.jpg",
+      "2": "src/img/catalog/catalogFrom200/7/5.jpg",
+      "3": "src/img/catalog/catalogFrom200/7/6.jpg",
+      "4": "src/img/catalog/catalogFrom200/7/7.jpg",
+      "5": "src/img/catalog/catalogFrom200/7/8.jpg",
+      "6": "src/img/catalog/catalogFrom200/7/4.jpg",
+      "7": "src/img/catalog/catalogFrom200/7/3.jpg"
+    }
+  }
+}

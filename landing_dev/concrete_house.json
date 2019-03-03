@@ -1,0 +1,66 @@
+{
+  "0":
+    {
+      "title":"Монолитный дом “Аляска”",
+      "object_text": "г/б дом в монолитном каркасе",
+      "place_text": "214 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/concrete_house1/бето1.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/concrete_house1/бето2.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/concrete_house1/бето3.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/concrete_house1/бето4.jpg) no-repeat center"
+    }
+  ,
+  "1":
+    {
+      "title":"Монолитный дом “КД-4”",
+      "object_text": "г/б дом в монолитном каркасе",
+      "place_text": "54.1 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/concrete_house2/бет1.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/concrete_house2/бет2.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/concrete_house2/бет3.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/concrete_house2/бет4.jpg) no-repeat center"
+    },
+
+  "2":
+    {
+      "title":"Монолитный дом “ДП-2”",
+      "object_text": "г/б дом в монолитном каркасе",
+      "place_text": "1250 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/concrete_house3/бет01.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/concrete_house3/бет02.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/concrete_house3/бет03.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/concrete_house3/бет04.jpg) no-repeat center"
+    }
+  ,
+  "3":
+    {
+      "title":"Монолитный дом “Наталина”",
+      "object_text": "г/б дом в монолитном каркасе",
+      "place_text": "181.4 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/concrete_house4/бет1.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/concrete_house4/бет2.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/concrete_house4/бет3.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/concrete_house4/бет4.jpg) no-repeat center"
+    }
+  ,
+  "4":
+    {
+      "title":"Монолитный дом “ДП-44”",
+      "object_text": "г/б дом в монолитном каркасе",
+      "place_text": "1417.8 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/concrete_house5/бе1.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/concrete_house5/бе2.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/concrete_house5/бе3.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/concrete_house5/бе4.jpg) no-repeat center"
+    }
+}

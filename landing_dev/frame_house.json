@@ -1,0 +1,66 @@
+{
+  "0":
+    {
+      "title":"Каркасный дом “Мурман”",
+      "object_text": "каркасный дом по канадской технологии",
+      "place_text": "108 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/frame_house1/01каркасГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/frame_house1/02каркасГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/frame_house1/03каркасГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/frame_house1/04каркасГот.jpg) no-repeat center"
+    }
+  ,
+  "1":
+    {
+      "title":"Каркасный дом “Виличка”",
+      "object_text": "каркасный дом по канадской технологии",
+      "place_text": "172 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/frame_house2/05каркасГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/frame_house2/06каркасГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/frame_house2/07каркасГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/frame_house2/08каркасГот.jpg) no-repeat center"
+    },
+
+  "2":
+    {
+      "title":"Каркасный дом “Пальмира”",
+      "object_text": "каркасный дом по канадской технологии",
+      "place_text": "157 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/frame_house3/09каркасГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/frame_house3/010каркасГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/frame_house3/011каркасГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/frame_house3/012каркасГот.jpg) no-repeat center"
+    }
+  ,
+  "3":
+    {
+      "title":"Каркасный дом “Солнечный”",
+      "object_text": "каркасный дом по канадской технологии",
+      "place_text": "144 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/frame_house4/13каркасГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/frame_house4/14каркасГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/frame_house4/15каркасГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/frame_house4/16каркасГот.jpg) no-repeat center"
+    }
+  ,
+  "4":
+    {
+      "title":"Каркасный дом “Аляска”",
+      "object_text": "каркасный дом по канадской технологии",
+      "place_text": "116 м2",
+      "calendar_text": "...",
+      "money_text": "скрыта по просьбе заказчика",
+      "img_example1": "url(src/img/our_house/frame_house5/17каркасГот.jpg) no-repeat center",
+      "img_example2": "url(src/img/our_house/frame_house5/18каркасГот.jpg) no-repeat center",
+      "img_example3": "url(src/img/our_house/frame_house5/19каркасГот.jpg) no-repeat center",
+      "img_example4": "url(src/img/our_house/frame_house5/20каркасГот.jpg) no-repeat center"
+    }
+}
