@@ -1,46 +1,46 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>HTC CK</title>
-	<meta charset="utf-8">
-	<!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+    	<title>HTC CK</title>
 
-	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="src/css/style.css">
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 
-	<script
-			src="https://code.jquery.com/jquery-3.3.1.min.js"
-			integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-			crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="//index.from.sh/index.css" />
+    	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
+    	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+    	<link rel="stylesheet" type="text/css" href="src/css/style.css">
 
-	<!-- Begin LeadBack code {literal} -->
-	<script>
-        var _emv = _emv || [];
-        _emv['campaign'] = '49844ba129a1cb4542d2e436';
 
-        (function() {
-            var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
-            em.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'leadback.ru/js/leadback.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
-        })();
-	</script>
-	<!-- End LeadBack code {/literal} -->
-	<!-- Marquiz script start -->
-	<script src="//script.marquiz.ru/v1.js" type="application/javascript"></script>
-	<script>
-        document.addEventListener("DOMContentLoaded", function() {
-            Marquiz.init({
-                id: '5c2b6bfddfe7910055454c4a',
-                autoOpen: false,
-                autoOpenFreq: 'once',
-                openOnExit: true
+    	<script
+    			src="https://code.jquery.com/jquery-3.3.1.min.js"
+    			integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    			crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="//index.from.sh/index.js"></script>
+    	<!-- Begin LeadBack code {literal} -->
+    	<script>
+            var _emv = _emv || [];
+            _emv['campaign'] = '49844ba129a1cb4542d2e436';
+
+            (function() {
+                var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+                em.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'leadback.ru/js/leadback.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+            })();
+    	</script>
+    	<!-- End LeadBack code {/literal} -->
+    	<!-- Marquiz script start -->
+    	<script src="//script.marquiz.ru/v1.js" type="application/javascript"></script>
+    	<script>
+            document.addEventListener("DOMContentLoaded", function() {
+                Marquiz.init({
+                    id: '5c2b6bfddfe7910055454c4a',
+                    autoOpen: false,
+                    autoOpenFreq: 'once',
+                    openOnExit: true
+                });
             });
-        });
-	</script>
-	<!-- Marquiz script end -->
+    	</script>
 </head>
 <body>
 <div class="header">
