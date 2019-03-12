@@ -27,7 +27,7 @@
       "name":"3",
       "room": "4",
       "bathroom": "1",
-      "space": "93,6",
+      "space": "93.6",
       "class_name": "block-up-to-100",
       "slider": {
         "0": "src/img/catalog/№3/cheap_house_1-min.jpg"
