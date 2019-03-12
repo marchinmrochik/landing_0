@@ -76,7 +76,7 @@
 				<a href="index.php" class="logo"></a>
 				<div class="d-flex align-items-center">
 					<a class="header-p2_link gray-dark_color " href="service.html">УСЛУГИ</a>
-					<a class="header-p2_link gray-dark_color ml-4" href="#popup:marquiz_5c7a346c2421ab0044839b60">ПРОСЧИТАТЬ ПРОEКТ</a>
+					<a class="header-p2_link gray-dark_color ml-4" href="#popup:marquiz_5c7a346c2421ab0044839b60">ПРОСЧИТАТЬ ПРОЕКТ</a>
 					<a class="header-p2_link gray-dark_color ml-4" href="price.html">О ЦЕНАХ</a>
 					<a class="header-p2_link gray-dark_color ml-4 scroll_to" href="#about-our">О НАС</a>
 					<a class="header-p2_link gray-dark_color ml-4" href="our_work.html">НАШИ РАБОТЫ</a>
