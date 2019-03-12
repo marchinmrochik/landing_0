@@ -494,7 +494,7 @@
     "room": "5",
     "bathroom": "1",
     "space": "224.21",
-    "class_name": "block-up-to-100",
+    "class_name": "block-from-200",
     "slider": {
       "0": "src/img/catalog/catalogFrom200/4/1.jpg"
     },
