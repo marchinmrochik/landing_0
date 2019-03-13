@@ -116,8 +116,8 @@
       "name":"7",
       "room": "8",
       "bathroom": "2",
-      "space": "195.7",
-      "class_name": "block-up-to-200",
+      "space": "204",
+      "class_name": "block-from-200",
       "slider": {
         "0": "src/img/catalog/№7/1.jpg"
       },
@@ -229,7 +229,7 @@
       "name":"12",
       "room": "3",
       "bathroom": "1",
-      "space": "92.68",
+      "space": "80.05",
       "class_name": "block-up-to-100",
       "slider": {
         "0": "src/img/catalog/catalogTo100/NST 5/1300x800-b0002_r1.305.jpg"
@@ -389,7 +389,7 @@
     "space": "143.46",
     "class_name": "block-up-to-200",
     "slider": {
-      "0": "src/img/catalog/catalogTo200/5/thumb_Z1_1_3.jpg"
+      "0": "src/img/catalog/catalogTo200/5/thumb_Z1_view1.jpg"
     },
     "slider_modal": {
       "0": "src/img/catalog/catalogTo200/5/thumb_Z1_1_3.jpg",
@@ -431,7 +431,7 @@
     "space": "150.36",
     "class_name": "block-up-to-200",
     "slider": {
-      "0": "src/img/catalog/catalogTo200/7/thumb_Z3_1_1.jpg"
+      "0": "src/img/catalog/catalogTo200/7/thumb_Z3_view2.jpg"
     },
     "slider_modal": {
       "0": "src/img/catalog/catalogTo200/7/thumb_Z3_1_1.jpg",
@@ -530,7 +530,7 @@
     "name":"28",
     "room": "11",
     "bathroom": "2",
-    "space": "312",
+    "space": "236.01",
     "class_name": "block-from-200",
     "slider": {
       "0": "src/img/catalog/catalogFrom200/6/1.jpg"
